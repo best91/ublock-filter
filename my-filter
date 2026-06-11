@@ -1,0 +1,6 @@
+! Title: Custom filters
+! Description: My filters
+
+! Яндекс почта
+mail.yandex.ru##div[data-testid="content-header_container"] > div:nth-of-type(3)
+mail.yandex.ru##div[data-testid="page-layout_right-column_container_v1"]
