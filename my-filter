@@ -6,4 +6,4 @@ mail.yandex.ru##div[data-testid="content-header_container"] > div:nth-of-type(3)
 mail.yandex.ru##div[data-testid="page-layout_right-column_container_v1"]
 
 ! Яндекс доквьювер
-docviewer.yandex.ru##div[class*="titleWrapper"] > div:nth-last-of-type(2)
+docviewer.yandex.ru##div[class*="titleWrapper"] + div
