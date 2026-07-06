@@ -7,3 +7,9 @@ mail.yandex.ru##div[data-testid="page-layout_right-column_container_v1"]
 
 ! Яндекс доквьювер
 docviewer.yandex.ru##div[class*="titleWrapper"] + div
+
+! Яндекс Афиша
+afisha.yandex.ru##div[class="grid__container"] > div:nth-of-type(1)
+afisha.yandex.ru##div[data-test-id="contentEventEmotional.head"] + div:has(div[class*="top-banner"])
+afisha.yandex.ru##div[data-test-id*="grid.sidebar"]:has(aside)
+afisha.yandex.ru##div[class*="sidebar"]:has(aside)
