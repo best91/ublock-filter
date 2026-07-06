@@ -5,7 +5,7 @@
 mail.yandex.ru##div[data-testid="content-header_container"] > div:nth-of-type(3)
 mail.yandex.ru##div[data-testid="page-layout_right-column_container_v1"]
 mail.yandex.ru##div[class*="OrbLogoContainer"]
-mail.yandex.ru##div[data-testid="orb-global-bar-service-list"]
+
 mail.yandex.ru##div[id="js-neuroexpert-button"]
 
 ! Яндекс доквьювер
